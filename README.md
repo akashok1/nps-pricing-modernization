@@ -2,9 +2,9 @@
 
 Independent business analyst portfolio project examining National Park Service visitation, entrance fee, and visitor spending data to identify fee modernization opportunities at high-traffic, fee-eligible parks.
 
-**Live dashboard:** https://public.tableau.com/app/profile/akashashok/viz/NPSPricingModernization/D1_Headline_Final
+**Live dashboard:** [Tableau Public](https://public.tableau.com/app/profile/akashashok/viz/NPSPricingModernization/D1_Headline_Final)
 
-**Author:** Akash Ashok ([LinkedIn](https://linkedin.com/in/akash-v-ashok))
+**Author:** Akash Ashok [LinkedIn](https://linkedin.com/in/akash-v-ashok)
 
 ## Headline Finding
 
@@ -33,29 +33,30 @@ Prepared for Office of the Director, National Park Service (analytical target au
 - **Tableau Public** for the executive dashboard
 
 ## Repository Structure
-'''
+```
 NPS-Analysis/
-├── README.md                       (this file)
-├── METHODOLOGY.md                  (detailed assumptions and citations)
-├── data/
-│   ├── raw/                        (NPS IRMA, VSE PDFs, fees CSV)
-│   └── processed/
-│       ├── visitation_cleaned.csv
-│       ├── fees_cleaned.csv
-│       ├── VSE_2017_2024_processed.csv
-│       ├── park_summary.csv        (final extract for Tableau)
-│       └── park_yearly.csv         (final extract for Tableau)
-├── python/
-│   └── data_cleaning.ipynb
-├── sql/
-│   ├── 01_create_tables.sql
-│   ├── 02_load_data.sql
-│   ├── 03_analysis.sql
-│   └── 04_create_extracts.sql
-└── tableau/
-├── nps_pricing_modernization.twbx
-└── NPS_Dashboard.png
-'''
+|-- README.md                       (this file)
+|-- METHODOLOGY.md                  (detailed assumptions and citations)
+|-- .gitignore
+|-- data/
+|   |-- raw/                        (NPS IRMA, VSE PDFs, fees CSV)
+|   `-- processed/
+|       |-- visitation_cleaned.csv
+|       |-- fees_cleaned.csv
+|       |-- VSE_2017_2024_processed.csv
+|       |-- park_summary.csv        (final extract for Tableau)
+|       `-- park_yearly.csv         (final extract for Tableau)
+|-- python/
+|   `-- data_cleaning.ipynb
+|-- sql/
+|   |-- 01_create_tables.sql
+|   |-- 02_load_data.sql
+|   |-- 03_analysis.sql
+|   `-- 04_create_extracts.sql
+`-- tableau/
+    |-- nps_pricing_modernization.twbx
+    `-- NPS_Dashboard.png
+```
 
 ## Data Sources
 
