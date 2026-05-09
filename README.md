@@ -3,6 +3,7 @@
 Independent business analyst portfolio project examining National Park Service visitation, entrance fee, and visitor spending data to identify fee modernization opportunities at high-traffic, fee-eligible parks.
 
 **Live dashboard:** https://public.tableau.com/app/profile/akashashok/viz/NPSPricingModernization/D1_Headline_Final
+
 **Author:** Akash Ashok ([LinkedIn](https://linkedin.com/in/akash-v-ashok))
 
 ## Headline Finding
@@ -21,7 +22,7 @@ Prepared for Office of the Director, National Park Service (analytical target au
 
 1. **Cleaned and standardized** 46 years of NPS IRMA monthly visitation data (219K rows), 8 years of NPS Visitor Spending Effects reports (extracted from PDFs), and current NPS published entrance fees.
 2. **Joined** datasets at the park-year level, fuzzy-matching park names across reporting systems via rapidfuzz.
-3. **Modeled** projected fee revenue under a $5/person scenario at a 0.7 demand factor, applying conservative assumptions per Stevens (2014), Sage (2017), Heagney et al. (2018), Wang & Lin (2023), and Newbold (2025).
+3. **Modeled** projected fee revenue under a $5/person scenario at a 0.7 demand factor, applying conservative assumptions per Sage (2017), Heagney et al. (2018), Yoon et al. (2025), and Newbold (2025).
 4. **Classified** 398 NPS units into Tier 1 (traditional fee-eligible), Tier 2 (NRAs and urban historical), Case Study (GRSM proof of concept), and excluded (memorials, parkways, etc.).
 5. **Recommended** a 3-phase rollout sequenced by implementation feasibility, political risk, and equity exposure.
 
@@ -32,6 +33,7 @@ Prepared for Office of the Director, National Park Service (analytical target au
 - **Tableau Public** for the executive dashboard
 
 ## Repository Structure
+'''
 NPS-Analysis/
 ├── README.md                       (this file)
 ├── METHODOLOGY.md                  (detailed assumptions and citations)
@@ -52,7 +54,8 @@ NPS-Analysis/
 │   └── 04_create_extracts.sql
 └── tableau/
 ├── nps_pricing_modernization.twbx
-└── dashboard_screenshot.png
+└── NPS_Dashboard.png
+'''
 
 ## Data Sources
 
