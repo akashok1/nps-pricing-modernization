@@ -2,9 +2,9 @@
 
 Independent business analyst portfolio project examining National Park Service visitation, entrance fee, and visitor spending data to identify fee modernization opportunities at high-traffic, fee-eligible parks.
 
-**Live dashboard:** https://public.tableau.com/app/profile/akashashok/viz/NPSPricingModernization/D1_Headline_Final ([Tableau Public](https://public.tableau.com/app/profile/akashashok/viz/NPSPricingModernization/D1_Headline_Final))
+**Live dashboard:** [Tableau Public](https://public.tableau.com/app/profile/akashashok/viz/NPSPricingModernization/D1_Headline_Final)
 
-**Author:** Akash Ashok ([LinkedIn](https://linkedin.com/in/akash-v-ashok))
+**Author:** Akash Ashok [LinkedIn](https://linkedin.com/in/akash-v-ashok)
 
 ## Headline Finding
 
