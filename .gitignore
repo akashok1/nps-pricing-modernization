@@ -1,0 +1,29 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.Python
+venv/
+env/
+.env
+
+# Tableau working files (keep .twbx, not the rest)
+*.twb
+*.twbr
+*.twbk
+
+# RTF backup files (TextEdit artifacts)
+*.rtf
+
+# Editor files
+.vscode/
+.idea/
+
+# Large raw data (uncomment if files are >50MB)
+# data/raw/

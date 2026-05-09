@@ -1,0 +1,105 @@
+ParkName,State,entrance_fee,fee_type,per_person_fee
+Acadia NP,ME,20.0,per-person,20.0
+Adams NHP,MA,15.0,per-person,15.0
+Antietam NB,MD,10.0,per-person,10.0
+Arches NP,UT,15.0,per-person,15.0
+Assateague Island NS,MD,25.0,per-vehicle,10.0
+Badlands NP,SD,15.0,per-person,15.0
+Bandelier NM,NM,15.0,per-person,15.0
+Big Bend NP,TX,15.0,per-person,15.0
+Black Canyon of the Gunnison NP,CO,15.0,per-person,15.0
+Bryce Canyon NP,UT,20.0,per-person,20.0
+Chesapeake & Ohio Canal NHP,MD,10.0,per-person,10.0
+Cabrillo NM,CA,10.0,per-person,10.0
+Canaveral NS,FL,15.0,per-person,15.0
+Canyonlands NP,UT,15.0,per-person,15.0
+Cape Cod NS,MA,15.0,per-person,15.0
+Capitol Reef NP,UT,10.0,per-person,10.0
+Capulin Volcano NM,NM,10.0,per-person,10.0
+Carlsbad Caverns NP,NM,15.0,per-person,15.0
+Castillo de San Marcos NM,FL,15.0,per-person,15.0
+Cedar Breaks NM,UT,15.0,per-person,15.0
+Chaco Culture NHP,NM,15.0,per-person,15.0
+Chattahoochee River NRA,GA,5.0,per-person,5.0
+Chickamauga & Chattanooga NMP,GA,10.0,per-person,10.0
+Christiansted NHS,VI,10.0,per-person,10.0
+Colonial NHP,VA,15.0,per-person,15.0
+Colorado NM,CO,15.0,per-person,15.0
+Crater Lake NP,OR,15.0,per-person,15.0
+Craters of the Moon NM & PRES,ID,10.0,per-person,10.0
+Cumberland Island NS,GA,15.0,per-person,15.0
+Death Valley NP,CA,15.0,per-person,15.0
+Denali NP & PRES,AK,15.0,per-person,15.0
+Devils Postpile NM,CA,15.0,per-person,15.0
+Devils Tower NM,WY,15.0,per-person,15.0
+Dinosaur NM,CO,15.0,per-person,15.0
+Dry Tortugas NP,FL,15.0,per-person,15.0
+Everglades NP,FL,20.0,per-person,20.0
+Florissant Fossil Beds NM,CO,10.0,per-person,10.0
+Fort Davis NHS,TX,10.0,per-person,10.0
+Fort McHenry NM & HS,MD,15.0,per-person,15.0
+Fort Pulaski NM,GA,10.0,per-person,10.0
+Fort Sumter and Fort Moultrie NHP,SC,10.0,per-person,10.0
+Fort Vancouver NHS,WA,10.0,per-person,10.0
+Glacier NP,MT,20.0,per-person,20.0
+Glen Canyon NRA,UT,15.0,per-person,15.0
+Golden Spike NHP,UT,10.0,per-person,10.0
+Grand Canyon NP,AZ,20.0,per-person,20.0
+Grand Teton NP,WY,20.0,per-person,20.0
+Great Sand Dunes NP & PRES,CO,15.0,per-person,15.0
+Guadalupe Mountains NP,TX,10.0,per-person,10.0
+Gulf Islands NS,FL,15.0,per-person,15.0
+Haleakala NP,HI,15.0,per-person,15.0
+Harpers Ferry NHP,WV,10.0,per-person,10.0
+Hawaii Volcanoes NP,HI,15.0,per-person,15.0
+Home of Franklin D. Roosevelt NHS,NY,15.0,per-person,15.0
+Indiana Dunes NP,IN,15.0,per-person,15.0
+Isle Royale NP,MI,7.0,per-person,7.0
+Joshua Tree NP,CA,15.0,per-person,15.0
+Kennesaw Mountain NBP,GA,5.0,per-person,5.0
+Lake Mead NRA,NV,15.0,per-person,15.0
+Lassen Volcanic NP,CA,15.0,per-person,15.0
+Lava Beds NM,CA,15.0,per-person,15.0
+Lewis & Clark NHP,OR,10.0,per-person,10.0
+Little Bighorn Battlefield NM,MT,15.0,per-person,15.0
+Little River Canyon NPRES,AL,15.0,per-vehicle,6.0
+Mesa Verde NP,CO,15.0,per-person,15.0
+Montezuma Castle NM,AZ,10.0,per-person,10.0
+Mount Rainier NP,WA,15.0,per-person,15.0
+Muir Woods NM,CA,15.0,per-person,15.0
+Natural Bridges NM,UT,10.0,per-person,10.0
+Olympic NP,WA,15.0,per-person,15.0
+Organ Pipe Cactus NM,AZ,15.0,per-person,15.0
+Padre Island NS,TX,15.0,per-person,15.0
+Perry's Victory & Intl. Peace MEM,OH,10.0,per-person,10.0
+Petrified Forest NP,AZ,15.0,per-person,15.0
+Pictured Rocks NL,MI,15.0,per-person,15.0
+Pinnacles NP,CA,15.0,per-person,15.0
+Pipe Spring NM,AZ,10.0,per-person,10.0
+Prince William Forest Park,VA,10.0,per-person,10.0
+Pu'uhonua o Honaunau NHP,HI,10.0,per-person,10.0
+Rio Grande W&SR,TX,30.0,per-vehicle,12.0
+Rocky Mountain NP,CO,15.0,per-person,15.0
+Saguaro NP,AZ,15.0,per-person,15.0
+Saint-Gaudens NHP,NH,10.0,per-person,10.0
+San Juan NHS,PR,10.0,per-person,10.0
+Sequoia NP,CA,20.0,per-person,20.0
+Shenandoah NP,VA,15.0,per-person,15.0
+Sleeping Bear Dunes NL,MI,25.0,per-vehicle,10.0
+Sunset Crater Volcano NM,AZ,15.0,per-person,15.0
+Theodore Roosevelt NP,ND,15.0,per-person,15.0
+Thomas Edison NHP,NJ,15.0,per-person,15.0
+Tonto NM,AZ,10.0,per-person,10.0
+Tumacacori NHP,AZ,10.0,per-person,10.0
+Tuzigoot NM,AZ,10.0,per-person,10.0
+Valles Caldera NPRES,NM,15.0,per-person,15.0
+Vanderbilt Mansion NHS,NY,15.0,per-person,15.0
+Vicksburg NMP,MS,10.0,per-person,10.0
+Walnut Canyon NM,AZ,15.0,per-person,15.0
+Whiskeytown NRA,CA,15.0,per-person,15.0
+White Sands NP,NM,15.0,per-person,15.0
+Wright Brothers NMEM,NC,10.0,per-person,10.0
+Wupatki NM,AZ,15.0,per-person,15.0
+Yellowstone NP,WY,20.0,per-person,20.0
+Yosemite NP,CA,20.0,per-person,20.0
+Zion NP,UT,20.0,per-person,20.0
